@@ -279,7 +279,7 @@ VisualEffect:
       m_Array:
       - m_Value: 100
         m_Name: "\u6578\u91CF"
-        m_Overridden: 0
+        m_Overridden: 1
     m_Vector2f:
       m_Array:
       - m_Value: {x: 0.3, y: 0.6}
@@ -288,7 +288,13 @@ VisualEffect:
     m_Vector3f:
       m_Array: []
     m_Vector4f:
-      m_Array: []
+      m_Array:
+      - m_Value: {x: 1, y: 0.15522838, z: 0.023584902, w: 1}
+        m_Name: "\u984F\u82721"
+        m_Overridden: 1
+      - m_Value: {x: 1, y: 0, z: 0, w: 1}
+        m_Name: "\u984F\u82722"
+        m_Overridden: 1
     m_Uint:
       m_Array: []
     m_Int:
@@ -300,7 +306,10 @@ VisualEffect:
     m_Gradient:
       m_Array: []
     m_NamedObject:
-      m_Array: []
+      m_Array:
+      - m_Value: {fileID: 2800000, guid: 6552111659309424291c83dbe9094c08, type: 3}
+        m_Name: "\u5716\u7247"
+        m_Overridden: 1
     m_Bool:
       m_Array: []
 --- !u!4 &1156972547

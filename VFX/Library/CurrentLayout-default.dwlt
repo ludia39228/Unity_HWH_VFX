@@ -39,9 +39,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 436
+    x: 469
     y: 0
-    width: 735
+    width: 702
     height: 952
   m_MinSize: {x: 102, y: 121}
   m_MaxSize: {x: 4002, y: 4021}
@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 811, y: 492}
   m_MaxSize: {x: 22006, y: 14042}
   vertical: 0
-  controlID: 59
+  controlID: 34
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -161,7 +161,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 436
+    width: 469
     height: 952
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
@@ -294,9 +294,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 436
+    x: 469
     y: 68
-    width: 733
+    width: 700
     height: 931
   m_ViewDataDictionary: {fileID: 0}
   m_DisplayedResource: {fileID: 8926484042661614527, guid: 3663e1aab83bb114e9f701c4e3bdd42e,
@@ -590,7 +590,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 68
-    width: 435
+    width: 468
     height: 931
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
@@ -603,9 +603,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.16813326, y: 0.5305915, z: -0.2032752}
+    m_Target: {x: 0.10353559, y: 0.45082194, z: -0.020907104}
     speed: 2
-    m_Value: {x: -0.16813326, y: 0.5305915, z: -0.2032752}
+    m_Value: {x: 0.10353559, y: 0.45082194, z: -0.020907104}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -651,13 +651,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.09937725, y: 0.89120054, z: -0.23689707, w: -0.37385502}
+    m_Target: {x: -0.02227074, y: 0.9154154, z: -0.05114217, w: -0.39862955}
     speed: 2
-    m_Value: {x: -0.099377155, y: 0.8911997, z: -0.23689684, w: -0.37385467}
+    m_Value: {x: -0.021672746, y: 0.91549003, z: -0.049768932, w: -0.39866203}
   m_Size:
-    m_Target: 1.2073951
+    m_Target: 0.5615529
     speed: 2
-    m_Value: 1.2073951
+    m_Value: 0.26155287
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -711,7 +711,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 8c420000
+      m_SelectedIDs: 20d0ffff
       m_LastClickedID: 0
       m_ExpandedIDs: 6afbffff
       m_RenameOverlay:

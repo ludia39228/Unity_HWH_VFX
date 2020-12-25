@@ -289,7 +289,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: "\u7159\u706B\u7279\u6548"
+    m_Text: "\u7159\u706B\u7279\u6548*"
     m_Image: {fileID: 0}
     m_Tooltip: 
   m_Pos:
@@ -378,19 +378,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - "Assets/\u9810\u88FD\u7269"
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - "Assets/\u9810\u88FD\u7269"
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Unity_HWH_VFX\VFX
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ec440000
-    m_LastClickedID: 17644
+    m_SelectedIDs: ac3e0000
+    m_LastClickedID: 16044
     m_ExpandedIDs: 00000000ac3e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -446,7 +446,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -471,7 +471,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 207}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 112
@@ -653,11 +653,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.0061976993, y: 0.9908392, z: -0.12582208, w: -0.048787523}
     speed: 2
-    m_Value: {x: -0.0063863867, y: 0.9907589, z: -0.12581189, w: -0.050273422}
+    m_Value: {x: -0.0061976993, y: 0.9908392, z: -0.12582208, w: -0.048787523}
   m_Size:
     m_Target: 19.14888
     speed: 2
-    m_Value: 18.324287
+    m_Value: 19.14888
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -711,8 +711,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: acceffff
-      m_LastClickedID: -12628
+      m_SelectedIDs: 58fbffff
+      m_LastClickedID: -1192
       m_ExpandedIDs: 6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0

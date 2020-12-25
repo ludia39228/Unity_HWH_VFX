@@ -7,33 +7,9 @@ Cmd: preprocessCompute
 Cmd: preprocess
   insize=38601 outsize=618 ok=1
 Cmd: preprocessCompute
-  insize=7266 outsize=7268 ok=1
+  insize=7265 outsize=7267 ok=1
 Cmd: preprocessCompute
   insize=6243 outsize=6245 ok=1
-Cmd: preprocess
-  insize=38619 outsize=617 ok=1
-Cmd: preprocessCompute
-  insize=7242 outsize=7244 ok=1
-Cmd: preprocessCompute
-  insize=6842 outsize=6844 ok=1
-Cmd: preprocess
-  insize=38601 outsize=618 ok=1
-Cmd: preprocessCompute
-  insize=7343 outsize=7345 ok=1
-Cmd: preprocessCompute
-  insize=6196 outsize=6198 ok=1
-Cmd: preprocess
-  insize=38619 outsize=617 ok=1
-Cmd: preprocessCompute
-  insize=7242 outsize=7244 ok=1
-Cmd: preprocessCompute
-  insize=6842 outsize=6844 ok=1
-Cmd: preprocess
-  insize=38601 outsize=618 ok=1
-Cmd: preprocessCompute
-  insize=7343 outsize=7345 ok=1
-Cmd: preprocessCompute
-  insize=6196 outsize=6198 ok=1
 Cmd: preprocess
   insize=38619 outsize=617 ok=1
 Cmd: preprocessCompute
@@ -224,10 +200,8 @@ Cmd: preprocess
   insize=38601 outsize=618 ok=1
 Cmd: preprocessCompute
   insize=7265 outsize=7267 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=7267 outsize=3080 ok=1
 Cmd: preprocessCompute
-  insize=6243 outsize=6245 ok=1
+  insize=6196 outsize=6198 ok=1
 Cmd: preprocess
   insize=38619 outsize=617 ok=1
 Cmd: preprocessCompute
@@ -239,8 +213,6 @@ Cmd: preprocess
 Cmd: preprocessCompute
   insize=7265 outsize=7267 ok=1
 Cmd: preprocessCompute
-  insize=6243 outsize=6245 ok=1
+  insize=6196 outsize=6198 ok=1
 Cmd: preprocess
   insize=38619 outsize=617 ok=1
-
-Quitting shader compiler process

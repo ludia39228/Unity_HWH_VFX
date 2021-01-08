@@ -197,15 +197,42 @@ VisualEffect:
     m_Float:
       m_Array: []
     m_Vector2f:
-      m_Array: []
+      m_Array:
+      - m_Value: {x: -5, y: 5}
+        m_Name: "\u7206\u70B8\u901F\u5EA6"
+        m_Overridden: 1
+      - m_Value: {x: -5, y: 5}
+        m_Name: "\u5149\u9EDE\u901F\u5EA6"
+        m_Overridden: 1
+      - m_Value: {x: 0.8, y: 2}
+        m_Name: "\u7159\u9727\u751F\u547D"
+        m_Overridden: 1
+      - m_Value: {x: 0.18, y: 0.25}
+        m_Name: "\u7206\u70B8\u751F\u547D"
+        m_Overridden: 1
+      - m_Value: {x: 0.1, y: 0.07}
+        m_Name: "\u5149\u9EDE\u5C3A\u5BF8"
+        m_Overridden: 1
     m_Vector3f:
-      m_Array: []
+      m_Array:
+      - m_Value: {x: -2, y: 1, z: -2}
+        m_Name: "\u7159\u9727\u901F\u5EA61"
+        m_Overridden: 1
+      - m_Value: {x: 2, y: 3, z: 2}
+        m_Name: "\u7159\u9727\u901F\u5EA62"
+        m_Overridden: 1
     m_Vector4f:
       m_Array: []
     m_Uint:
       m_Array: []
     m_Int:
-      m_Array: []
+      m_Array:
+      - m_Value: 650
+        m_Name: "\u7206\u70B8\u6578\u91CF"
+        m_Overridden: 1
+      - m_Value: 50
+        m_Name: "\u5149\u9EDE\u6578\u91CF"
+        m_Overridden: 1
     m_Matrix4x4f:
       m_Array: []
     m_AnimationCurve:
@@ -215,7 +242,7 @@ VisualEffect:
       - m_Value:
           serializedVersion: 2
           key0: {r: 1.9766746, g: 1.5523622, b: 1.148748, a: 0}
-          key1: {r: 2.9960785, g: 0.83137256, b: 0.20392157, a: 1}
+          key1: {r: 1.3109467, g: 0.3004253, b: 0, a: 1}
           key2: {r: 0, g: 0, b: 0, a: 0.8}
           key3: {r: 0, g: 0, b: 0, a: 0}
           key4: {r: 0, g: 0, b: 0, a: 0}
@@ -303,7 +330,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 269204390}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.12763354, y: 0.103104874, z: 0.010410398}
+  m_LocalPosition: {x: 0.04, y: 0.55, z: 0.010410398}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

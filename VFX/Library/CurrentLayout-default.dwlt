@@ -389,9 +389,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d6410000
-    m_LastClickedID: 16854
-    m_ExpandedIDs: 000000007240000000ca9a3b
+    m_SelectedIDs: 3e400000
+    m_LastClickedID: 16446
+    m_ExpandedIDs: 00000000ae3e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -419,7 +419,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000072400000
+    m_ExpandedIDs: 00000000ae3e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -605,7 +605,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 0, y: 1, z: 0}
     speed: 2
-    m_Value: {x: 0.00000012352487, y: 1.0000002, z: -0.00000010206389}
+    m_Value: {x: 0, y: 1, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -655,9 +655,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.0061976993, y: 0.9908392, z: -0.12582208, w: -0.048787523}
   m_Size:
-    m_Target: 1.1615529
+    m_Target: 0.8615529
     speed: 2
-    m_Value: 1.4615529
+    m_Value: 0.5615529
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -711,23 +711,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: a2490000
+      m_SelectedIDs: 94400000
       m_LastClickedID: 0
-      m_ExpandedIDs: 5cd1ffff9afaffff
+      m_ExpandedIDs: 6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: "\u7206\u70B8\u7279\u6548"
-        m_OriginalName: "\u7206\u70B8\u7279\u6548"
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -23914
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 10}
       m_SearchString: 
